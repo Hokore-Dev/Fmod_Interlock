@@ -1,3 +1,10 @@
+/*********************************************************************
+* Date : 2016.04.26
+* Name : Fmod (Cocos2d-X ver 3.X)
+* Email : create(pbes0707@gmail.com) / modify(mark4215@naver.com)
+* GitHub : https://github.com/haminjun/Joystick_Lib
+* Cocos2d-x and linked the fmod library
+***********************************************************************/
 #include "HelloWorldScene.h"
 #include "FmodAudioPlayer.h"
 
